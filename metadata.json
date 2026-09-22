@@ -1,0 +1,8 @@
+{
+  "name": "AI-Based Network Attack Forecasting",
+  "description": "Cybersecurity research portal, technical blog, and project showcase for AI-based network attack forecasting from network traffic data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
